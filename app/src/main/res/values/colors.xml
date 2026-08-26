@@ -1,0 +1,8 @@
+<resources>
+    <color name="golha_background">#FAF7F1</color>
+    <color name="golha_primary">#6D4C41</color>
+    <color name="golha_text">#29231F</color>
+    <color name="golha_secondary_text">#6F625B</color>
+    <color name="golha_card">#FFFFFF</color>
+    <color name="golha_player">#FFFDF8</color>
+</resources>

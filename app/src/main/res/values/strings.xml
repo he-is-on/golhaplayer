@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">گلها</string>
+    <string name="title_main">برنامه گلها</string>
+    <string name="refresh">به‌روزرسانی</string>
+    <string name="loading">در حال دریافت فهرست…</string>
+    <string name="no_programs">برنامه‌ای پیدا نشد.</string>
+    <string name="network_error">اتصال به فهرست برنامه‌ها برقرار نشد. اینترنت و دسترسی به GitHub را بررسی کنید.</string>
+    <string name="play">پخش</string>
+    <string name="pause">توقف</string>
+    <string name="back">بازگشت</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.GolhaPlayer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/golha_background</item>
+        <item name="android:navigationBarColor">@color/golha_background</item>
+        <item name="android:colorAccent">@color/golha_primary</item>
+        <item name="colorPrimary">@color/golha_primary</item>
+        <item name="colorSecondary">@color/golha_primary</item>
+    </style>
+    <style name="GolhaToolbarTitle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
